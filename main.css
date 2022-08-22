@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+}
+.container {
+  font-family: "DynaPuff", cursive;
+  background-color: #F9D57B;
+}
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
